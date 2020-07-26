@@ -7,4 +7,5 @@ both dot directories are supposed to go in the home directory, make sure the scr
 `
 chmod +x .toggles/screens_extend_toggle.sh
 `
-if all goes well, `Win+p` should switch between hdmi-1 + internal screen and internal screen mode only mode
+
+if all goes well, `Win+p` should switch between hdmi-01 + internal screen and internal screen only mode
