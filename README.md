@@ -9,3 +9,6 @@ chmod +x .toggles/screens_extend_toggle.sh
 `
 
 if all goes well, `Win+p` should switch between hdmi-01 + internal screen and internal screen only mode
+
+
+Install Rofi to make the Win+t shortcut work!
